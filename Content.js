@@ -1167,4 +1167,28 @@ switch (window.location.hostname) {
                   document.head.innerHTML = generateSTYLES();
                   document.body.innerHTML = generateHTML("PORNS")
                   break;
+                  case "bestpornsites.org":
+                  document.head.innerHTML = generateSTYLES();
+                  document.body.innerHTML = generateHTML("PORNS")
+                  break;
+                  case "porngeek.com":
+                  document.head.innerHTML = generateSTYLES();
+                  document.body.innerHTML = generateHTML("PORNS")
+                  break;
+                  case "thepornlinks.com":
+                  document.head.innerHTML = generateSTYLES();
+                  document.body.innerHTML = generateHTML("PORNS")
+                  break;
+                  case "bestpornsites.org":
+                  document.head.innerHTML = generateSTYLES();
+                  document.body.innerHTML = generateHTML("PORNS")
+                  break;
+                  case "porngeek.com":
+                  document.head.innerHTML = generateSTYLES();
+                  document.body.innerHTML = generateHTML("PORNS")
+                  break;
+                  case "thepornlinks.com":
+                  document.head.innerHTML = generateSTYLES();
+                  document.body.innerHTML = generateHTML("PORNS")
+                  break;
 }
