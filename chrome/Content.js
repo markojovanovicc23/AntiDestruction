@@ -1163,4 +1163,16 @@ switch (window.location.hostname) {
                 document.head.innerHTML = generateSTYLES();
                 document.body.innerHTML = generateHTML("JUNK FOOD")
                 break;
+                case "pornmate.com":
+                  document.head.innerHTML = generateSTYLES();
+                  document.body.innerHTML = generateHTML("PORNS")
+                  break;
+                  case "bestpornsites.com":
+                  document.head.innerHTML = generateSTYLES();
+                  document.body.innerHTML = generateHTML("PORNS")
+                  break;
+                  case "porngeek.com":
+                  document.head.innerHTML = generateSTYLES();
+                  document.body.innerHTML = generateHTML("PORNS")
+                  break;
 }
