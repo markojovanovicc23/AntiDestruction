@@ -1164,39 +1164,63 @@ switch (window.location.hostname) {
                 document.body.innerHTML = generateHTML("JUNK FOOD")
                 break;
                 case "pornmate.com":
-                  document.head.innerHTML = generateSTYLES();
-                  document.body.innerHTML = generateHTML("PORNS")
-                  break;
-                  case "bestpornsites.org":
-                  document.head.innerHTML = generateSTYLES();
-                  document.body.innerHTML = generateHTML("PORNS")
-                  break;
-                  case "porngeek.com":
-                  document.head.innerHTML = generateSTYLES();
-                  document.body.innerHTML = generateHTML("PORNS")
-                  break;
-                  case "thepornlinks.com":
-                  document.head.innerHTML = generateSTYLES();
-                  document.body.innerHTML = generateHTML("PORNS")
-                  break;
-                  case "bestpornsites.org":
-                  document.head.innerHTML = generateSTYLES();
-                  document.body.innerHTML = generateHTML("PORNS")
-                  break;
-                  case "porngeek.com":
-                  document.head.innerHTML = generateSTYLES();
-                  document.body.innerHTML = generateHTML("PORNS")
-                  break;
-                  case "thepornlinks.com":
-                  document.head.innerHTML = generateSTYLES();
-                  document.body.innerHTML = generateHTML("PORNS")
-                  break;
-                  case "iwantporn.net":
-                    document.head.innerHTML = generateSTYLES();
-                    document.body.innerHTML = generateHTML("PORNS")
-                    break;
-                    case "reachporn.com":
-                      document.head.innerHTML = generateSTYLES();
-                      document.body.innerHTML = generateHTML("PORNS")
-                      break;
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "bestpornsites.org":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "porngeek.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "thepornlinks.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "bestpornsites.org":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "porngeek.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "thepornlinks.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "iwantporn.net":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "reachporn.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "bestpornsites.net":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "freesafeporn.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "freepornsites.net":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "bellesa.co":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "visit-x.world":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "landing.brazzersnetwork.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
 }
