@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Anti Destruction - Blocking all types of Destruction",
+  "version": "0.0.1",
+  "description":"This is exstension for Google Chrome. This exstension blocks all destructive content.Please check our website http://anti-destruction.us.to/",
+  "icons":{
+    "128":"./icons/128.png",
+    "48":"./icons/48.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["Content.js"]
+    }
+  ]
+}
