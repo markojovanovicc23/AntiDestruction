@@ -1191,8 +1191,4 @@ switch (window.location.hostname) {
                   document.head.innerHTML = generateSTYLES();
                   document.body.innerHTML = generateHTML("PORNS")
                   break;
-                  case ".com":
-                    document.head.innerHTML = generateSTYLES();
-                    document.body.innerHTML = generateHTML("PORNS")
-                    break;
 }
