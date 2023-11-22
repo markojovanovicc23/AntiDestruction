@@ -1435,4 +1435,227 @@ switch (window.location.hostname) {
                 document.head.innerHTML = generateSTYLES();
                 document.body.innerHTML = generateHTML("PORNS")
                 break;
+                case "inporn.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "pornxp.org":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "www.cliphunter.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "xtapes.to":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "yourdailypornvideos.ws":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "palimas.org":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "www.pussyspace.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "xxxscenes.net":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "bestporn4free.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "www.analdin.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "eroticmv.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "swingerpornfun.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "www.pornwex.tv":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "www2.gimmeporn.xyz":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "www.tubeorigin.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;case "americass.net":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "galaxyporn.net":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "sexu.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "pornseed.net":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "upornia.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "x-x-x.tube":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "motherless.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "www.3movs.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "www.pornhits.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "tubxporn.xxx":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "fullporner.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "en.paradisehill.cc":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "www.xfreehd.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "anysex.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "ww1.pornhoarder.tv":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "czechvideo.co":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "hdporn92.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "fuxnxx.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "www.povaddict.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "www.freeomovie.to":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "netfapx.net":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "severeporn.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "xkeezmovies.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "pornovideoshub.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "fullxxxmovies.net":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "pornvibe.org":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "www.megatube.xxx":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "xxvideoss.org":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "www.xozilla.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "tube.perverzija.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "thepornfull.net":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "2023.pornvideobb.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "latestporn.co":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "whereismyporn.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "pornez.cam":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "www.sextu.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "taxi69.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "www.definebabe.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "www.titfap.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "xcafe.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "www.pornlib.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
 }
