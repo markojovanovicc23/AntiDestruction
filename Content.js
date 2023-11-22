@@ -1658,4 +1658,16 @@ switch (window.location.hostname) {
                 document.head.innerHTML = generateSTYLES();
                 document.body.innerHTML = generateHTML("PORNS")
                 break;
+                case "porn4days.red":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "veporn.com":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
+                case "letsjerk.tv":
+                document.head.innerHTML = generateSTYLES();
+                document.body.innerHTML = generateHTML("PORNS")
+                break;
 }
